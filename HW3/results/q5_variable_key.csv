@@ -1,0 +1,13 @@
+"key","label","n"
+"vpin","VPIN",600
+"aoib","AOIB",600
+"pcm_market_adjusted","PCM",600
+"vcv_162d","VCV",600
+"gh_adverse_cost","GH",559
+"nonsynch_1mr2","1-R2",600
+"c2","C2",600
+"pi_abs","abs_lambda_OIB",505
+"log_cap","log_cap",600
+"return_sd","return_sd",600
+"turnover_mean_pct","turnover",600
+"amihud_mean","Amihud",600
