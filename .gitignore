@@ -1,0 +1,8 @@
+sources/
+HW3/TEJ*/
+HW3/*.rdata
+HW3/*.pdf
+HW3/r_lib/
+HW3/results/
+HW3/HW3_Q*.md
+docs/HW3_資料可行性與執行方案.md
