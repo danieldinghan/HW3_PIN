@@ -1,6 +1,6 @@
 # HW3 Probability of Informed Trading
 
-本儲存庫公開 HW3 第 1–6 題的報告、分析程式，以及彙總圖表與統計結果。
+Repo包含 HW3 第 1–6 題的報告、分析程式，以及彙總圖表與統計結果。
 
 - [Q1–Q4 報告](HW3/HW3_Q1_Q4.md)
 - [Q5 相關矩陣](HW3/HW3_Q5.md)
